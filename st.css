@@ -1,0 +1,163 @@
+.continar {
+    background-color: rgba(19, 170, 157, 0.66);
+    min-height: 40vh;
+    margin: -20px -10px;
+}
+
+
+.continar h2 {
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 100px;
+    color: beige;
+}
+
+.continar p {
+    font-family: sans-serif;
+    padding-left: 10px;
+    text-align: center;
+    color: beige;
+}
+
+.continar button {
+    border: 1px solid;
+    padding: 10px 25px;
+    margin-left: 47.5%;
+    background-color: beige;
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 0.4rem;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.continar button:hover {
+    transform: scale(1.2);
+    border: 1px solid;
+    padding: 10px 25px;
+    background-color: rgba(19, 170, 157, 0.66);
+}
+
+.continar button a {
+    text-decoration: none;
+    font-size: large;
+    font-family: sans-serif;
+    color: rgb(216, 216, 17);
+}
+
+.content {
+    background-color: beige;
+    min-height: 60vh;
+    margin: -10px;
+}
+
+.content h2 {
+    padding: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.content p {
+    font-family: sans-serif;
+    margin: -40px;
+    text-align: center;
+}
+
+
+.box {
+    margin-left: 70px;
+    margin-top: 90px;
+    height: 250px;
+    width: 250px;
+    background-color: aliceblue;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
+.box:hover {
+    transform: scale(1.1);
+    background-color: black;
+}
+
+
+.box p {
+    text-align: left;
+    font-size: small;
+    margin-left: 20px;
+    padding-left: 0;
+    padding-top: 45px;
+    color: rgb(216, 216, 17);
+}
+
+
+.box img {
+    height: 70px;
+    width: 70px;
+    border-radius: 3rem;
+}
+
+.ali {
+    background-color: aliceblue;
+    height: 220px;
+    width: 250px;
+    margin-left: 45%;
+    margin-top: -10%;
+    transition: 0.5s;
+    cursor: pointer;
+
+}
+
+.ali:hover {
+    transform: scale(1.1);
+    background-color: black;
+}
+
+
+.ali p {
+    text-align: left;
+    font-size: small;
+    margin-left: 20px;
+    padding-left: 0;
+    padding-top: 45px;
+    color: rgb(216, 216, 17);
+}
+
+.ali img {
+    height: 70px;
+    width: 70px;
+    border-radius: 3rem;
+}
+
+.ahmed {
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    margin-left: 80%;
+    margin-top: -16%;
+    transition: 0.5s;
+    cursor: pointer;
+
+}
+
+
+.ahmed:hover {
+    transform: scale(1.1);
+    background-color: black;
+}
+
+
+.ahmed p {
+    text-align: left;
+    font-size: small;
+    margin-left: 20px;
+    padding-left: 0;
+    padding-top: 45px;
+    color: rgb(216, 216, 17);
+}
+
+.ahmed img {
+    height: 70px;
+    width: 70px;
+    border-radius: 3rem;
+}
